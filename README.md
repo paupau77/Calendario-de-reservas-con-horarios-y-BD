@@ -29,7 +29,7 @@ Incluye frontend con selección de día y hora, y backend con API REST en Node.j
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/Booking-Calendar-with-Hourly-Reservations.git
+   git clone https://github.com/paupau77/Calendario-de-reservas-con-horarios-y-BD.git
    ```
 
 2. Instala dependencias del backend:
@@ -58,4 +58,4 @@ Incluye frontend con selección de día y hora, y backend con API REST en Node.j
 
 MIT License ©
 
-```
+---
