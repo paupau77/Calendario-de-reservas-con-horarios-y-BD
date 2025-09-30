@@ -3,6 +3,13 @@
 Calendario interactivo que permite reservar fechas y horas específicas.  
 Incluye frontend con selección de día y hora, y backend con API REST en Node.js y MongoDB para almacenar reservas.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/paupau77/Calendario-de-reservas-con-horarios-y-BD)
+![GitHub last commit](https://img.shields.io/github/last-commit/paupau77/Calendario-de-reservas-con-horarios-y-BD)
+![GitHub issues](https://img.shields.io/github/issues/paupau77/Calendario-de-reservas-con-horarios-y-BD)
+![GitHub stars](https://img.shields.io/github/stars/paupau77/Calendario-de-reservas-con-horarios-y-BD?style=social)
+![GitHub forks](https://img.shields.io/github/forks/paupau77/Calendario-de-reservas-con-horarios-y-BD?style=social)
+![GitHub license](https://img.shields.io/github/license/paupau77/Calendario-de-reservas-con-horarios-y-BD)
+
 ---
 
 ## Características✨
