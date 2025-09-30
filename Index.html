@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Calendario de reservas con horario y BD</title>
+  <link rel="stylesheet" href="Styles.css" />
+</head>
+<body>
+  <div class="calendar">
+    <div class="header">
+      <button id="prev-month">&#8592;</button>
+      <div class="month-year" id="month-year"></div>
+      <button id="next-month">&#8594;</button>
+    </div>
+    <div class="weekdays">
+      <div>Lun</div><div>Mar</div><div>Mié</div><div>Jue</div><div>Vie</div><div>Sáb</div><div>Dom</div>
+    </div>
+    <div class="days" id="days"></div>
+    <div class="hours-section" id="hours-section" style="display:none;">
+      <h3>Selecciona una hora para <span id="selected-date-display"></span></h3>
+      <div id="hours-list"></div>
+    </div>
+    <div class="footer">
+      <button class="reserve-btn" id="reserve-btn" disabled>Reservar fecha y hora</button>
+    </div>
+  </div>
+  <script src="App.js"></script>
+</body>
+</html>
