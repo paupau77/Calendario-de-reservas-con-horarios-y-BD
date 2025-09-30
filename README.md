@@ -1,11 +1,11 @@
-# Calendario de reservas con horarios y BD
+# Calendario de reservas con horarios y BD🗓️
 
 Calendario interactivo que permite reservar fechas y horas específicas.  
 Incluye frontend con selección de día y hora, y backend con API REST en Node.js y MongoDB para almacenar reservas.
 
 ---
 
-## Características
+## Características✨
 
 - Navegación entre meses en calendario.  
 - Selección de horas disponibles (24 horas completas).  
@@ -16,7 +16,7 @@ Incluye frontend con selección de día y hora, y backend con API REST en Node.j
 
 ---
 
-## Tecnologías
+## Tecnologías💥
 
 - HTML, CSS, JavaScript (Frontend)  
 - Node.js, Express (Backend)  
@@ -24,7 +24,7 @@ Incluye frontend con selección de día y hora, y backend con API REST en Node.j
 
 ---
 
-## Cómo usar
+## Cómo usar🤔
 
 1. Clona el repositorio:
 
@@ -50,11 +50,12 @@ Incluye frontend con selección de día y hora, y backend con API REST en Node.j
 5. Sirve el frontend con un servidor local (por ejemplo, VSCode Live Server o `python -m http.server`).
 
 6. Abre el frontend en tu navegador (en PC o móvil).  
-   > **Nota:** Para usar desde móvil, cambia en `script.js` la URL del backend por la IP local de tu PC (por ejemplo, `http://192.168.x.x:3000/api/bookings`).
+   > **Nota:** Para usar desde móvil, cambia en `App.js` la URL del backend por la IP local de tu PC (por ejemplo, `http://192.168.x.x:3000/api/bookings`).
 
 ---
 
-## Licencia
+## Licencia💜
 
 MIT License ©
+
 ```
